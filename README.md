@@ -2,8 +2,10 @@
 
 This repository contains code for an object detection model using OpenCV and YOLO (You Only Look Once). The model can detect various objects in an image and draw bounding boxes around them, along with labeling the objects.
 
+![Object Detection](https://miro.medium.com/v2/resize:fit:700/0*xfXdebLeaMXt3Vct)
+
 ## 🔗 Colab Link:
-- https://colab.research.google.com/drive/1YmCbd1bv_WemSk0-uZyKEu5RzsYy9BsD?usp=sharing
+- [check here](https://colab.research.google.com/drive/1YmCbd1bv_WemSk0-uZyKEu5RzsYy9BsD?usp=sharing)
 
 ## 📁 File Structure
 - `Object_Detection_ComputerVision.ipynb`: Jupyter Notebook containing the code for the object detection model.
